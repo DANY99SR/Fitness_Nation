@@ -1,0 +1,762 @@
+[
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_strawberry_greens_smoothie.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\strawberry_greens_smoothie.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eggtomatoscallionsandwich.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\eggtomatoscallionsandwich.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zucchinipizza.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\zucchinipizza.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_830215_200.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_830215_200.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_830215_200.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_830215_200.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chickenandredplumsalad.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\chickenandredplumsalad.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_burritos.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\burritos.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fiestasalad.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\fiestasalad.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_butternutsquashwhitebeansoup.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\butternutsquashwhitebeansoup.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_face_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_face_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_2807655_200.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_2807655_200.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_asiansesamezucchininoodles.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\asiansesamezucchininoodles.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person_black_24dp.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_green_tea.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\green_tea.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grilledleekpotatosalad.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\grilledleekpotatosalad.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_alarm_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_alarm_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_2807655_200.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_2807655_200.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_statistics.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_statistics.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_bottom_navigation.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout-land\\activity_bottom_navigation.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_face_black_24dp.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_face_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vegan_tacos.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\vegan_tacos.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_statistics.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout\\fragment_statistics.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_schedule_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_schedule_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_border.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\circle_border.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_image_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_image_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smoked_eggs_benedict.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\smoked_eggs_benedict.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baconegginaholewithavocado.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\baconegginaholewithavocado.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_2807655_200.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_2807655_200.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whitebeantunasalad.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\whitebeantunasalad.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_sign_up.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout-land\\fragment_sign_up.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_image_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_image_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chickenmushroomssweetpotato.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\chickenmushroomssweetpotato.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tropical_acai_bowl.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\tropical_acai_bowl.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_image_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_image_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_birchermuesli.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\birchermuesli.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_potbasilchickenbakedziti.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\potbasilchickenbakedziti.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout_cardview_item_meal.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout\\cardview_item_meal.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_man.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable-v24\\man.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_2807655_200.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_2807655_200.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shakshuka.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\shakshuka.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hempgranola.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\hempgranola.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_woman.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable-v24\\woman.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_face_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_face_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_log_in.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout-land\\fragment_log_in.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_schedule_black_24dp.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_schedule_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_profile.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout-land\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grad.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\grad.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_cardview_item_meal.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout-land\\cardview_item_meal.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_statistics.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_statistics.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_greek_yogurt_chia_seeds.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\greek_yogurt_chia_seeds.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_sandwich.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_sandwich.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_schedule_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_schedule_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_schedule_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_schedule_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_statistics.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_statistics.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_srirachashreddedchickentacos.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\srirachashreddedchickentacos.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sausage_hash_brown_egg_muffins.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\sausage_hash_brown_egg_muffins.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_fragment_logo.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout-sw600dp\\fragment_logo.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scrambled_eggs_veggies.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\scrambled_eggs_veggies.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fitness.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable-v24\\fitness.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_alarm_black_24dp.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_alarm_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_curriedchickpeabroccolihash.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\curriedchickpeabroccolihash.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_view_layout.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout\\text_view_layout.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_2807655_200.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_2807655_200.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_notifications.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout-land\\fragment_notifications.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oatmeal_berries.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\oatmeal_berries.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_alarm_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_alarm_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_food.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout\\activity_food.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_almondbutterapplecinnamonbakedoatmealcups.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\almondbutterapplecinnamonbakedoatmealcups.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_menu_login.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout-land\\fragment_menu_login.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_830215_200.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_830215_200.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_drawable_button.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\shape_drawable_button.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_addmeal.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout-land\\fragment_addmeal.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kungpaoshrimp.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\kungpaoshrimp.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_sandwich.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_sandwich.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sandwich.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_sandwich.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_text_view_layout.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout-land\\text_view_layout.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sandwich.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_sandwich.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_statistics.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout-land\\fragment_statistics.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_breakfastpizza.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\breakfastpizza.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_butternutsquashandapplehashwithsausage.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\butternutsquashandapplehashwithsausage.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_login.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout-land\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sandwich.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_sandwich.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ketoeggwraps.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\ketoeggwraps.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_creamytomatoglutenreepasta.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\creamytomatoglutenreepasta.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grapefruitjpg.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\grapefruitjpg.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_face_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_face_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sandwich.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_sandwich.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_crispyhashbrowns.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\crispyhashbrowns.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_image_black_24dp.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_image_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_statistics.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_statistics.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chilimangozestyquinoasalad.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\chilimangozestyquinoasalad.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roastedsalmon.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\roastedsalmon.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_food.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout-land\\activity_food.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_face_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_face_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tunapokebowl.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\tunapokebowl.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_logo.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout\\fragment_logo.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_image_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_image_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_2807655_200.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_2807655_200.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_statistics.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_statistics.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baconeggpotatocasserole.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\baconeggpotatocasserole.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_alarm_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_alarm_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_830215_200.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_830215_200.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_alarm_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_alarm_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zucchini_potato_fritters.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\zucchini_potato_fritters.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_addmeal.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout\\fragment_addmeal.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tomato.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\tomato.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sign_up.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout\\fragment_sign_up.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tomatopeachbasilsalad.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\tomatopeachbasilsalad.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_statistics.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_statistics.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_830215_200.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_830215_200.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_schedule_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_schedule_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_830215_200.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_830215_200.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_statistics.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_statistics.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_2807655_200.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_2807655_200.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_alarm_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_alarm_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_schedule_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_schedule_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_peanut_butter_toast.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\peanut_butter_toast.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bottom_navigation.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout\\activity_bottom_navigation.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_face_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_face_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_main.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_alarm_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_alarm_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_image_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_image_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_log_in.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout\\fragment_log_in.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_schedule_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_schedule_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avocadosaladspicysesametamarigranola.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\avocadosaladspicysesametamarigranola.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_sandwich.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_sandwich.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_face_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_face_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vegetableramen.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\vegetableramen.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_830215_200.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_830215_200.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_butternutsquashproteinpancakes.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\butternutsquashproteinpancakes.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_creamyhealthychickenenchiladaskillet.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\creamyhealthychickenenchiladaskillet.jpg"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_menu_login.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout\\fragment_menu_login.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_image_black_24dp.png.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_image_black_24dp.png"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_logo.xml.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\layout-land\\fragment_logo.xml"
+    },
+    {
+        "merged": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carrotradishsalad.jpg.flat",
+        "source": "D:\\FACULTATE COZMA DANIEL NECULAI\\Anul 3\\Sem 1\\Pam Tabarca\\AndroidProject-master\\FitnessNation\\app\\src\\main\\res\\drawable\\carrotradishsalad.jpg"
+    }
+]

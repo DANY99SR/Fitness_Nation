@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FitnessNation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Start">Start</string>
+    <string name="Login">Log in</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="ForgotPassword">Forgot Password</string>
+    <string name="weight">Kg</string>
+    <string name="height">Cm</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="Update">update</string>
+    <string name="oldweight">Old weight</string>
+    <string name="goalweight">Goal weight</string>
+    <string name="currentweight">Current weight</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bottom_navigation_acitivity">BottomNavigationAcitivity</string>
+    <string name="title_home">Profile</string>
+    <string name="title_statistics">Statistics</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_meal">Meal Plan</string>
+
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_profile">Profile</string>
+    <string name="twitterUsername">\@joeytribbiani</string>
+
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fitnessnation">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".ApplicationController"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:configChanges="keyboardHidden|orientation|screenSize">
+
+
+        <activity android:name=".activitites.FoodActivity"
+            android:screenOrientation="sensor"></activity>
+        <activity
+            android:name=".activitites.BottomNavigationActivity"
+            android:label="@string/title_activity_bottom_navigation"
+            android:screenOrientation="sensor"/>
+
+        <activity android:name=".activitites.LoginActivity"
+            android:screenOrientation="sensor"/>
+        <activity android:name=".activitites.MainActivity"
+            android:screenOrientation="sensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <receiver android:name="AlarmReceiver"></receiver>
+    </application>
+
+</manifest>

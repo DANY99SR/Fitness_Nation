@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/silver"
+    tools:context="fragments.SignUpFragment">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/g_left_side"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.1" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/g_right_side"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.9" />
+
+
+    <!-- <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycle_view"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/g_right_side"
+        app:layout_constraintStart_toStartOf="@+id/g_left_side"
+        app:layout_constraintTop_toBottomOf="@id/Password"
+        app:layout_constraintVertical_bias="0.16"  />-->
+
+    <EditText
+        android:id="@+id/Username"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="Username"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/g_right_side"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/g_left_side"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.043" />
+
+    <EditText
+        android:id="@+id/Password"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:cursorVisible="true"
+        android:hint="Password"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/g_right_side"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/g_left_side"
+        app:layout_constraintTop_toTopOf="@id/Username"
+        app:layout_constraintVertical_bias="0.16" />
+
+    <LinearLayout
+        android:id="@+id/linear1"
+        android:orientation="horizontal"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="@id/Password"
+        app:layout_constraintBottom_toTopOf="@id/gender"
+        app:layout_constraintStart_toStartOf="@id/g_left_side"
+        app:layout_constraintEnd_toEndOf="@id/g_right_side">
+
+        <EditText
+            android:id="@+id/weight"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="1"
+            android:hint="@string/weight"></EditText>
+
+        <EditText
+            android:id="@+id/height"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="1"
+            android:hint="@string/height"></EditText>
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/goalweight"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_weight="1"
+        android:hint="Goal Weight"
+        app:layout_constraintBottom_toTopOf="@id/gender"
+        app:layout_constraintEnd_toEndOf="@id/g_right_side"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@id/g_left_side"
+        app:layout_constraintTop_toTopOf="@id/linear1"
+        app:layout_constraintVertical_bias="0.762"></EditText>
+
+    <Button
+        android:id="@+id/signup_button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_drawable_button"
+        android:text="@string/SignUp"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/g_right_side"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/g_left_side"
+        app:layout_constraintTop_toBottomOf="@id/Password"
+        app:layout_constraintVertical_bias="0.926" />
+
+    <RadioGroup
+        android:id="@+id/gender"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toTopOf="@id/signup_button"
+        app:layout_constraintEnd_toStartOf="@+id/g_right_side"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/g_left_side"
+        app:layout_constraintTop_toBottomOf="@id/linear1"
+        app:layout_constraintVertical_bias="0.711">
+
+        <RadioButton
+            android:id="@+id/male"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/male" />
+        <RadioButton
+            android:id="@+id/female"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/female"
+            tools:layout_editor_absoluteX="41dp"
+            tools:layout_editor_absoluteY="442dp"></RadioButton>
+
+    </RadioGroup>
+
+
+    <RadioGroup
+        android:id="@+id/weight_choice"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toTopOf="@id/signup_button"
+        app:layout_constraintEnd_toStartOf="@+id/g_right_side"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/g_left_side"
+        app:layout_constraintTop_toBottomOf="@id/gender"
+        app:layout_constraintVertical_bias="0.711">
+
+        <RadioButton
+            android:id="@+id/weightloss"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Weight loss" />
+        <RadioButton
+            android:id="@+id/weightgain"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Weight gain"
+            tools:layout_editor_absoluteX="41dp"
+            tools:layout_editor_absoluteY="442dp"></RadioButton>
+
+    </RadioGroup>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
